@@ -1,5 +1,9 @@
 body{
     background-image: url(Images/background.png);
+    background-image: url('your-image-url.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
 }
 
 .container{
